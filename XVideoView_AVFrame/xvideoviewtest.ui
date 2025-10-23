@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>XVideoViewTest</class>
+ <widget class="QMainWindow" name="XVideoViewTest">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>XVideoViewTest</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="videoLB">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>140</y>
+      <width>441</width>
+      <height>331</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="fpsLB">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>40</y>
+      <width>50</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="videomMenu">
+    <property name="title">
+     <string>视频</string>
+    </property>
+    <widget class="QMenu" name="menu_2">
+     <property name="title">
+      <string>倍数播放</string>
+     </property>
+     <addaction name="action0_5X"/>
+     <addaction name="action0_75X"/>
+     <addaction name="action1_0X"/>
+     <addaction name="action1_25X"/>
+     <addaction name="action1_5X"/>
+     <addaction name="action2_0X"/>
+     <addaction name="action3_0X"/>
+    </widget>
+    <addaction name="menu_2"/>
+   </widget>
+   <addaction name="videomMenu"/>
+  </widget>
+  <action name="action0_5X">
+   <property name="text">
+    <string>0.5X</string>
+   </property>
+  </action>
+  <action name="action0_75X">
+   <property name="text">
+    <string>0.75X</string>
+   </property>
+  </action>
+  <action name="action1_0X">
+   <property name="text">
+    <string>1.0X</string>
+   </property>
+  </action>
+  <action name="action1_25X">
+   <property name="text">
+    <string>1.25X</string>
+   </property>
+  </action>
+  <action name="action1_5X">
+   <property name="text">
+    <string>1.5X</string>
+   </property>
+  </action>
+  <action name="action2_0X">
+   <property name="text">
+    <string>2.0X</string>
+   </property>
+  </action>
+  <action name="action3_0X">
+   <property name="text">
+    <string>3.0X</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

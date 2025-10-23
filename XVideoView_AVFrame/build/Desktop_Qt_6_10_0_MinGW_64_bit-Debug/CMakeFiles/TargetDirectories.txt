@@ -1,0 +1,9 @@
+D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/XVideoView_AVFrame.dir
+D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/XVideoView_AVFrame_autogen_timestamp_deps.dir
+D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/XVideoView_AVFrame_autogen.dir

@@ -1,0 +1,20 @@
+# ninja log v6
+34	738	7829176829038346	XVideoView_AVFrame_autogen/timestamp	1df32be75330db0f
+34	738	7829176829038346	XVideoView_AVFrame_autogen/mocs_compilation.cpp	1df32be75330db0f
+748	3120	7829176830888693	CMakeFiles/XVideoView_AVFrame.dir/main.cpp.obj	b444b65d942a1702
+256	1811	7829139434782797	CMakeFiles/XVideoView_AVFrame.dir/xvideoview.cpp.obj	e3d82375cbe1fbf0
+34	738	7829176829038346	D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/XVideoView_AVFrame_autogen/timestamp	1df32be75330db0f
+34	738	7829176829038346	D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/XVideoView_AVFrame_autogen/mocs_compilation.cpp	1df32be75330db0f
+756	3160	7829176830968665	CMakeFiles/XVideoView_AVFrame.dir/xvideoviewtest.cpp.obj	9f82cedc17a2c958
+504	2349	7829138300152475	CMakeFiles/XVideoView_AVFrame.dir/xsdl.cpp.obj	d6d5e100474eed44
+740	3116	7829176830808441	CMakeFiles/XVideoView_AVFrame.dir/XVideoView_AVFrame_autogen/mocs_compilation.cpp.obj	b514892f758f43f6
+12	70	7827700329148574	CMakeFiles/clean.additional	baedbe210acaa455
+70	94	7827700329725892	clean	a83bd057a79b439c
+12	944	7827712426300864	build.ninja	ca85d180d379f513
+3161	3894	7829176855016797	XVideoView_AVFrame.exe	13e2df44d0926e4c
+29	235	7829180306303216	XVideoView_AVFrame_autogen/timestamp	1df32be75330db0f
+29	235	7829180306303216	XVideoView_AVFrame_autogen/mocs_compilation.cpp	1df32be75330db0f
+29	235	7829180306303216	D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/XVideoView_AVFrame_autogen/timestamp	1df32be75330db0f
+29	235	7829180306303216	D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/XVideoView_AVFrame_autogen/mocs_compilation.cpp	1df32be75330db0f
+236	2500	7829180308362249	CMakeFiles/XVideoView_AVFrame.dir/xvideoviewtest.cpp.obj	9f82cedc17a2c958
+2501	3196	7829180331015886	XVideoView_AVFrame.exe	13e2df44d0926e4c
