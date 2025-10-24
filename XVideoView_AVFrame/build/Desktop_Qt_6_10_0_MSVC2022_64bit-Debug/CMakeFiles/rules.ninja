@@ -47,7 +47,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\Qt\Tools\CMake_64\bin\cmake.exe --regenerate-during-build -SD:\QtProject\XVideoView_AVFrame -BD:\QtProject\XVideoView_AVFrame\build\Desktop_Qt_6_10_0_MSVC2022_64bit-Debug
+  command = C:\Qt\Tools\CMake_64\bin\cmake.exe --regenerate-during-build -SC:\Users\19896\Documents\GitHub\VideoPlayer\XVideoView_AVFrame -BC:\Users\19896\Documents\GitHub\VideoPlayer\XVideoView_AVFrame\build\Desktop_Qt_6_10_0_MSVC2022_64bit-Debug
   description = Re-running CMake...
   generator = 1
 

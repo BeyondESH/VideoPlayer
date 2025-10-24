@@ -77,6 +77,9 @@ bool XSdl::init(int w, int h, PixFormat fmt, void *win_id)
     case XVideoView::PixFormat::YUV420P:
         sdl_fmt=SDL_PIXELFORMAT_IYUV;
         break;
+    case XVideoView::PixFormat::ABGR:
+        sdl_fmt=SDL_PIXELFORMAT_ABGR8888;
+        break;
     default:
         qDebug()<<"像素格式错误";
         return false;
@@ -105,6 +108,8 @@ bool XSdl::draw(const unsigned char *data, int lineSize)
     if(lineSize<=0){
         switch (_fmt) {
         case XVideoView::PixFormat::ARGB:
+            lineSize=_width*4;
+            break;
         case XVideoView::PixFormat::RGBA:
             lineSize=_width*4;
             break;

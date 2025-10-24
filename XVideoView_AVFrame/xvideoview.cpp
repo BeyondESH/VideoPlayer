@@ -1,6 +1,7 @@
 #include "xvideoview.h"
 #include "xsdl.h"
 #include <QString>
+#include <QDebug>
 extern "C"{
 #include <libavcodec/avcodec.h>
 }
@@ -29,7 +30,9 @@ bool XVideoView::drawFrame(AVFrame *frame)
                         frame->data[2],frame->linesize[2]);
             break;
         }
-        case AV_PIX_FMT_BGRA:{
+        case AV_PIX_FMT_BGRA:
+        case AV_PIX_FMT_ABGR:
+        case AV_PIX_FMT_RGBA:{
             result=draw(frame->data[0],frame->linesize[0]);
             break;
         }
@@ -98,4 +101,9 @@ void XVideoView::sleep(long long ms)
 int XVideoView::fps() const
 {
     return _fps;
+}
+
+XVideoView::PixFormat XVideoView::fmt() const
+{
+    return _fmt;
 }

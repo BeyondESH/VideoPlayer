@@ -33,7 +33,7 @@ private:
     int _sdl_width;
     int _sdl_height;
     double _pix_size;
-    std::ifstream _yuv_file;
+    std::ifstream _ifs;
     std::thread _draw_thread;
     std::atomic_bool _isStop;
     long long  _file_size;

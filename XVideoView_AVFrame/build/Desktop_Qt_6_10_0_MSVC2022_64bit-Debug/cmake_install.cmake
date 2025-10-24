@@ -1,4 +1,4 @@
-# Install script for directory: D:/QtProject/XVideoView_AVFrame
+# Install script for directory: C:/Users/19896/Documents/GitHub/VideoPlayer/XVideoView_AVFrame
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -33,7 +33,7 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/XVideoView_AVFrame.exe")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "C:/Users/19896/Documents/GitHub/VideoPlayer/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/XVideoView_AVFrame.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -51,6 +51,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "C:/Users/19896/Documents/GitHub/VideoPlayer/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

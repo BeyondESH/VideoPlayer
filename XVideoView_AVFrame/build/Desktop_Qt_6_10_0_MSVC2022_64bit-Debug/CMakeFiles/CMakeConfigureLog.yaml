@@ -39,7 +39,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
       
       The CXX compiler identification is MSVC, found in:
-        D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.exe
+        C:/Users/19896/Documents/GitHub/VideoPlayer/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.exe
       
   -
     kind: "message-v1"
@@ -51,7 +51,7 @@ events:
     message: |
       Detecting CXX compiler /showIncludes prefix:
         main.c
-        注意: 包含文件:  D:\\QtProject\\XVideoView_AVFrame\\build\\Desktop_Qt_6_10_0_MSVC2022_64bit-Debug\\CMakeFiles\\ShowIncludes\\foo.h
+        注意: 包含文件:  C:\\Users\\19896\\Documents\\GitHub\\VideoPlayer\\XVideoView_AVFrame\\build\\Desktop_Qt_6_10_0_MSVC2022_64bit-Debug\\CMakeFiles\\ShowIncludes\\foo.h
         
       Found prefix "注意: 包含文件:  "
   -
@@ -63,8 +63,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-2936se"
-      binary: "D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-2936se"
+      source: "C:/Users/19896/Documents/GitHub/VideoPlayer/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-9qo4bj"
+      binary: "C:/Users/19896/Documents/GitHub/VideoPlayer/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-9qo4bj"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -78,11 +78,11 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-2936se'
+        Change Dir: 'C:/Users/19896/Documents/GitHub/VideoPlayer/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-9qo4bj'
         
-        Run Build Command(s): C:/PROGRA~1/MICROS~1/2022/PROFES~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v cmTC_b2a35
-        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\HostX64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /GR /EHsc  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_b2a35.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_b2a35.dir\\ /FS -c C:\\Qt\\Tools\\CMake_64\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_b2a35.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b2a35.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_b2a35.exe /implib:cmTC_b2a35.lib /pdb:cmTC_b2a35.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): C:/PROGRA~1/MICROS~1/2022/PROFES~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v cmTC_dd302
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\HostX64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /GR /EHsc  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_dd302.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_dd302.dir\\ /FS -c C:\\Qt\\Tools\\CMake_64\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_dd302.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_dd302.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_dd302.exe /implib:cmTC_dd302.lib /pdb:cmTC_dd302.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -134,8 +134,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-523q8b"
-      binary: "D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-523q8b"
+      source: "C:/Users/19896/Documents/GitHub/VideoPlayer/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-zinm34"
+      binary: "C:/Users/19896/Documents/GitHub/VideoPlayer/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-zinm34"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -149,13 +149,13 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: 'D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-523q8b'
+        Change Dir: 'C:/Users/19896/Documents/GitHub/VideoPlayer/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-zinm34'
         
-        Run Build Command(s): C:/PROGRA~1/MICROS~1/2022/PROFES~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v cmTC_110f6
-        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\HostX64\\x64\\cl.exe  /nologo /TP -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS /GR /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_110f6.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_110f6.dir\\ /FS -c D:\\QtProject\\XVideoView_AVFrame\\build\\Desktop_Qt_6_10_0_MSVC2022_64bit-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-523q8b\\src.cxx
-        \x1b[31mFAILED: \x1b[0mCMakeFiles/cmTC_110f6.dir/src.cxx.obj 
-        C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\HostX64\\x64\\cl.exe  /nologo /TP -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS /GR /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_110f6.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_110f6.dir\\ /FS -c D:\\QtProject\\XVideoView_AVFrame\\build\\Desktop_Qt_6_10_0_MSVC2022_64bit-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-523q8b\\src.cxx
-        D:\\QtProject\\XVideoView_AVFrame\\build\\Desktop_Qt_6_10_0_MSVC2022_64bit-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-523q8b\\src.cxx(1): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+        Run Build Command(s): C:/PROGRA~1/MICROS~1/2022/PROFES~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v cmTC_0b282
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\HostX64\\x64\\cl.exe  /nologo /TP -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS /GR /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_0b282.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_0b282.dir\\ /FS -c C:\\Users\\19896\\Documents\\GitHub\\VideoPlayer\\XVideoView_AVFrame\\build\\Desktop_Qt_6_10_0_MSVC2022_64bit-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-zinm34\\src.cxx
+        \x1b[31mFAILED: \x1b[0mCMakeFiles/cmTC_0b282.dir/src.cxx.obj 
+        C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\HostX64\\x64\\cl.exe  /nologo /TP -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS /GR /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_0b282.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_0b282.dir\\ /FS -c C:\\Users\\19896\\Documents\\GitHub\\VideoPlayer\\XVideoView_AVFrame\\build\\Desktop_Qt_6_10_0_MSVC2022_64bit-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-zinm34\\src.cxx
+        C:\\Users\\19896\\Documents\\GitHub\\VideoPlayer\\XVideoView_AVFrame\\build\\Desktop_Qt_6_10_0_MSVC2022_64bit-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-zinm34\\src.cxx(1): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
         ninja: build stopped: subcommand failed.
         
       exitCode: 1
@@ -179,8 +179,8 @@ events:
     checks:
       - "Looking for pthread_create in pthreads"
     directories:
-      source: "D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-g4qbgn"
-      binary: "D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-g4qbgn"
+      source: "C:/Users/19896/Documents/GitHub/VideoPlayer/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-fj4ray"
+      binary: "C:/Users/19896/Documents/GitHub/VideoPlayer/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-fj4ray"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -194,14 +194,14 @@ events:
       variable: "CMAKE_HAVE_PTHREADS_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-g4qbgn'
+        Change Dir: 'C:/Users/19896/Documents/GitHub/VideoPlayer/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-fj4ray'
         
-        Run Build Command(s): C:/PROGRA~1/MICROS~1/2022/PROFES~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v cmTC_e7b9a
-        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\HostX64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /GR /EHsc -DCHECK_FUNCTION_EXISTS=pthread_create /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_e7b9a.dir\\CheckFunctionExists.cxx.obj /FdCMakeFiles\\cmTC_e7b9a.dir\\ /FS -c D:\\QtProject\\XVideoView_AVFrame\\build\\Desktop_Qt_6_10_0_MSVC2022_64bit-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-g4qbgn\\CheckFunctionExists.cxx
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_e7b9a.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_e7b9a.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_e7b9a.exe /implib:cmTC_e7b9a.lib /pdb:cmTC_e7b9a.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        \x1b[31mFAILED: \x1b[0mcmTC_e7b9a.exe 
-        C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_e7b9a.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_e7b9a.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_e7b9a.exe /implib:cmTC_e7b9a.lib /pdb:cmTC_e7b9a.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_e7b9a.dir\\CheckFunctionExists.cxx.obj /out:cmTC_e7b9a.exe /implib:cmTC_e7b9a.lib /pdb:cmTC_e7b9a.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_e7b9a.dir/intermediate.manifest CMakeFiles\\cmTC_e7b9a.dir/manifest.res" failed (exit code 1104) with the following output:
+        Run Build Command(s): C:/PROGRA~1/MICROS~1/2022/PROFES~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v cmTC_3be01
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\HostX64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /GR /EHsc -DCHECK_FUNCTION_EXISTS=pthread_create /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_3be01.dir\\CheckFunctionExists.cxx.obj /FdCMakeFiles\\cmTC_3be01.dir\\ /FS -c C:\\Users\\19896\\Documents\\GitHub\\VideoPlayer\\XVideoView_AVFrame\\build\\Desktop_Qt_6_10_0_MSVC2022_64bit-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-fj4ray\\CheckFunctionExists.cxx
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_3be01.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_3be01.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_3be01.exe /implib:cmTC_3be01.lib /pdb:cmTC_3be01.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        \x1b[31mFAILED: \x1b[0mcmTC_3be01.exe 
+        C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_3be01.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_3be01.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_3be01.exe /implib:cmTC_3be01.lib /pdb:cmTC_3be01.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_3be01.dir\\CheckFunctionExists.cxx.obj /out:cmTC_3be01.exe /implib:cmTC_3be01.lib /pdb:cmTC_3be01.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_3be01.dir/intermediate.manifest CMakeFiles\\cmTC_3be01.dir/manifest.res" failed (exit code 1104) with the following output:
         LINK : fatal error LNK1104: 无法打开文件“pthreads.lib”\x0d
         ninja: build stopped: subcommand failed.
         
@@ -226,8 +226,8 @@ events:
     checks:
       - "Looking for pthread_create in pthread"
     directories:
-      source: "D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-hf8yzk"
-      binary: "D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-hf8yzk"
+      source: "C:/Users/19896/Documents/GitHub/VideoPlayer/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-d8n6bi"
+      binary: "C:/Users/19896/Documents/GitHub/VideoPlayer/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-d8n6bi"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -241,14 +241,14 @@ events:
       variable: "CMAKE_HAVE_PTHREAD_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-hf8yzk'
+        Change Dir: 'C:/Users/19896/Documents/GitHub/VideoPlayer/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-d8n6bi'
         
-        Run Build Command(s): C:/PROGRA~1/MICROS~1/2022/PROFES~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v cmTC_e729e
-        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\HostX64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /GR /EHsc -DCHECK_FUNCTION_EXISTS=pthread_create /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_e729e.dir\\CheckFunctionExists.cxx.obj /FdCMakeFiles\\cmTC_e729e.dir\\ /FS -c D:\\QtProject\\XVideoView_AVFrame\\build\\Desktop_Qt_6_10_0_MSVC2022_64bit-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-hf8yzk\\CheckFunctionExists.cxx
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_e729e.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_e729e.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_e729e.exe /implib:cmTC_e729e.lib /pdb:cmTC_e729e.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        \x1b[31mFAILED: \x1b[0mcmTC_e729e.exe 
-        C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_e729e.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_e729e.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_e729e.exe /implib:cmTC_e729e.lib /pdb:cmTC_e729e.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_e729e.dir\\CheckFunctionExists.cxx.obj /out:cmTC_e729e.exe /implib:cmTC_e729e.lib /pdb:cmTC_e729e.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_e729e.dir/intermediate.manifest CMakeFiles\\cmTC_e729e.dir/manifest.res" failed (exit code 1104) with the following output:
+        Run Build Command(s): C:/PROGRA~1/MICROS~1/2022/PROFES~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v cmTC_a5610
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\HostX64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /GR /EHsc -DCHECK_FUNCTION_EXISTS=pthread_create /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_a5610.dir\\CheckFunctionExists.cxx.obj /FdCMakeFiles\\cmTC_a5610.dir\\ /FS -c C:\\Users\\19896\\Documents\\GitHub\\VideoPlayer\\XVideoView_AVFrame\\build\\Desktop_Qt_6_10_0_MSVC2022_64bit-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-d8n6bi\\CheckFunctionExists.cxx
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_a5610.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_a5610.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_a5610.exe /implib:cmTC_a5610.lib /pdb:cmTC_a5610.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        \x1b[31mFAILED: \x1b[0mcmTC_a5610.exe 
+        C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_a5610.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_a5610.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_a5610.exe /implib:cmTC_a5610.lib /pdb:cmTC_a5610.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_a5610.dir\\CheckFunctionExists.cxx.obj /out:cmTC_a5610.exe /implib:cmTC_a5610.lib /pdb:cmTC_a5610.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_a5610.dir/intermediate.manifest CMakeFiles\\cmTC_a5610.dir/manifest.res" failed (exit code 1104) with the following output:
         LINK : fatal error LNK1104: 无法打开文件“pthread.lib”\x0d
         ninja: build stopped: subcommand failed.
         
@@ -280,8 +280,8 @@ events:
     checks:
       - "Performing Test HAVE_STDATOMIC"
     directories:
-      source: "D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-ux1s2z"
-      binary: "D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-ux1s2z"
+      source: "C:/Users/19896/Documents/GitHub/VideoPlayer/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-9mpkqq"
+      binary: "C:/Users/19896/Documents/GitHub/VideoPlayer/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-9mpkqq"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -295,11 +295,11 @@ events:
       variable: "HAVE_STDATOMIC"
       cached: true
       stdout: |
-        Change Dir: 'D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-ux1s2z'
+        Change Dir: 'C:/Users/19896/Documents/GitHub/VideoPlayer/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-9mpkqq'
         
-        Run Build Command(s): C:/PROGRA~1/MICROS~1/2022/PROFES~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v cmTC_f9f58
-        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\HostX64\\x64\\cl.exe  /nologo /TP -DHAVE_STDATOMIC  /DWIN32 /D_WINDOWS /GR /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_f9f58.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_f9f58.dir\\ /FS -c D:\\QtProject\\XVideoView_AVFrame\\build\\Desktop_Qt_6_10_0_MSVC2022_64bit-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ux1s2z\\src.cxx
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_f9f58.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f9f58.dir\\src.cxx.obj  /out:cmTC_f9f58.exe /implib:cmTC_f9f58.lib /pdb:cmTC_f9f58.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): C:/PROGRA~1/MICROS~1/2022/PROFES~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v cmTC_1f471
+        [1/2] C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\HostX64\\x64\\cl.exe  /nologo /TP -DHAVE_STDATOMIC  /DWIN32 /D_WINDOWS /GR /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_1f471.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_1f471.dir\\ /FS -c C:\\Users\\19896\\Documents\\GitHub\\VideoPlayer\\XVideoView_AVFrame\\build\\Desktop_Qt_6_10_0_MSVC2022_64bit-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-9mpkqq\\src.cxx
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_1f471.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_1f471.dir\\src.cxx.obj  /out:cmTC_1f471.exe /implib:cmTC_1f471.lib /pdb:cmTC_1f471.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
 ...

@@ -16,6 +16,7 @@ public:
         RGBA=0,
         ARGB,
         YUV420P,
+        ABGR,
     };
 
     // 初始化渲染窗口 线程安全
@@ -54,6 +55,8 @@ public:
     //处理窗口退出事件
     virtual bool isExit()=0;
     int fps() const;
+
+    PixFormat fmt() const;
 
 protected:
     int _fps=0;

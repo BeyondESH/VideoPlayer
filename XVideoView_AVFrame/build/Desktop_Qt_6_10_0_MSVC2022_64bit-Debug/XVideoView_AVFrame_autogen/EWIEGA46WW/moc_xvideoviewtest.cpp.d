@@ -1,4 +1,4 @@
-D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/XVideoView_AVFrame_autogen/EWIEGA46WW/moc_xvideoviewtest.cpp: D:/QtProject/XVideoView_AVFrame/xvideoviewtest.h \
+C:/Users/19896/Documents/GitHub/VideoPlayer/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/XVideoView_AVFrame_autogen/EWIEGA46WW/moc_xvideoviewtest.cpp: C:/Users/19896/Documents/GitHub/VideoPlayer/XVideoView_AVFrame/xvideoviewtest.h \
   C:/Program\ Files\ (x86)/Windows\ Kits/10/include/10.0.26100.0/ucrt/assert.h \
   C:/Program\ Files\ (x86)/Windows\ Kits/10/include/10.0.26100.0/ucrt/corecrt.h \
   C:/Program\ Files\ (x86)/Windows\ Kits/10/include/10.0.26100.0/ucrt/corecrt_malloc.h \
@@ -218,4 +218,4 @@ D:/QtProject/XVideoView_AVFrame/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug/XVi
   C:/Qt/6.10.0/msvc2022_64/include/QtWidgets/qtwidgetsexports.h \
   C:/Qt/6.10.0/msvc2022_64/include/QtWidgets/qtwidgetsglobal.h \
   C:/Qt/6.10.0/msvc2022_64/include/QtWidgets/qwidget.h \
-  D:/QtProject/XVideoView_AVFrame/xvideoview.h
+  C:/Users/19896/Documents/GitHub/VideoPlayer/XVideoView_AVFrame/xvideoview.h
